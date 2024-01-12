@@ -1071,7 +1071,7 @@
   gitlab: qr_mumps/qr_mumps
   description: A parallel multifrontal solver for sparse linear systems based on QR and Cholesky decomposition
   categories: numerical
-  tags: QR Cholesy sparse multifrontal least-squares
+  tags: QR Cholesky sparse multifrontal least-squares
   
 # --- Scientific codes ---
 
